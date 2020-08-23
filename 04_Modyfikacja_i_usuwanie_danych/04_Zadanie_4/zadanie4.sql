@@ -1,0 +1,1 @@
+UPDATE students SET email = 'ala2@wp.pl' WHERE surname = 'Alewska';
