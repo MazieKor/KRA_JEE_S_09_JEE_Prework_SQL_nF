@@ -1,0 +1,1 @@
+SELECT SUBSTRING(UPPER(name), 1, 2), SUBSTRING(UPPER(surname), 1, 2)  FROM students ORDER BY surname DESC;
