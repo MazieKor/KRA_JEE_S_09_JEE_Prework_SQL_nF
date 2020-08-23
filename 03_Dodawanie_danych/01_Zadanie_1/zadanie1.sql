@@ -1,0 +1,1 @@
+INSERT INTO teachers VALUES (6, "Tomasz Tomaszow", 6700);
